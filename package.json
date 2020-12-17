@@ -1,12 +1,13 @@
 {
   "name": "test-changelog",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "index.js",
   "repository": "https://github.com/Himanshu8910/test-changelog",
   "author": "Garg, Himanshu <himanshu.garg@rakuten.com>",
   "license": "MIT",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "release": "standard-version"
   },
   "devDependencies": {
     "standard-version": "^9.0.0"
