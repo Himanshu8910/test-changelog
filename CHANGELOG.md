@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/Himanshu8910/test-changelog/compare/v1.1.0...v1.2.0) (2020-12-17)
+
+
+### Features
+
+* add console message in index.js file ([fae18c0](https://github.com/Himanshu8910/test-changelog/commit/fae18c0bf548915b4390cff8fad6418396e642f6))
+
 ## 1.1.0 (2020-12-17)
 
 
