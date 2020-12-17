@@ -5,8 +5,10 @@
   "repository": "https://github.com/Himanshu8910/test-changelog",
   "author": "Garg, Himanshu <himanshu.garg@rakuten.com>",
   "license": "MIT",
-
   "scripts": {
-    "start" : "node index.js" 
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "standard-version": "^9.0.0"
   }
 }
